@@ -22,7 +22,7 @@ const Footer = () => {
                 </ul>
                 <span className="footer-copy">
                     &#169; All Rights Reserved By
-                    <a href="#"> Yuvashree Maniarasu</a>
+                    <a href="#"> Yuvashree Maniarasu.</a>
                 </span>
             </motion.div>
         </footer>
